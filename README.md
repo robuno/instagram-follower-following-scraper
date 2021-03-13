@@ -53,6 +53,6 @@ myff>python main.py
 
 ```
 
-### Example of Created Files
+### Instance of Created Files
 
 ![alt text](https://i.imgur.com/Xw1SXpi.png)
