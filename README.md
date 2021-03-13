@@ -24,8 +24,6 @@ myff\venv\Scripts>activate
 myff\venv\Scripts>cd..
 myff\venv>cd ..
 myff>pip install selenium
-myff>copy nul main.py
-myff>copy nul browser.py
 
 ```
 
