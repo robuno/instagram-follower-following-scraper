@@ -44,3 +44,7 @@ fatsrbitdefe
 myff>python main.py
 
 ```
+
+### Example of Created Files
+
+![alt text](https://i.imgur.com/Xw1SXpi.png)
