@@ -34,8 +34,16 @@ Otherwise, there must not have content in this "gotouser.txt" file. Program will
 
 "user.txt" file must include username in the first line and the password in the second line.
 
+#### gotouser.txt
+
 ```
-fatsrbitdefe
+[target account username]    
+```
+
+#### user.txt
+```
+[username]
+[password]
 ```
 
 ### Commands to Run
