@@ -37,13 +37,13 @@ Otherwise, there must not have content in this "gotouser.txt" file. Program will
 #### gotouser.txt
 
 ```
-[target account username]    
+target account username  
 ```
 
 #### user.txt
 ```
-[username]
-[password]
+username
+password
 ```
 
 ### Commands to Run
