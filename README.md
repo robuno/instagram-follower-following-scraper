@@ -30,7 +30,7 @@ myff>pip install selenium
 ### Determining the Target Account
 If it is required to access followers of another account instead of the followers of the account you are logged in, change the content of "gotouser.txt". 
 
-Otherwise, there must not have content in this "gotouser.txt" file. Program will create the list of followers/following of the account which is in "user.txt".
+Otherwise, there must not have content in this "gotouser.txt" file. The program will create the list of followers/following of the account which is in "user.txt".
 
 "user.txt" file must include username in the first line and the password in the second line.
 
