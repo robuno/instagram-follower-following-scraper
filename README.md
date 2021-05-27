@@ -8,9 +8,9 @@ Creates a list of followers and following with the current time.
 
 Chrome WebDrive Manager and Selenium must be installed to run the application. If they are installed, you can just run the main.py.
 
--[ChromeDriver-WebDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+ - [ChromeDriver-WebDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
--[Selenium](https://selenium-python.readthedocs.io/installation.html)
+ - [Selenium](https://selenium-python.readthedocs.io/installation.html)
 
 In the directory(assumed "myff") of program:
 
