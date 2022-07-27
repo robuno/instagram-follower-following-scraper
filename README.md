@@ -37,7 +37,7 @@ Otherwise, there must not have content in this "gotouser.txt" file. The program 
 #### gotouser.txt
 
 ```
-target account username  
+target-account-username  
 ```
 
 #### user.txt
